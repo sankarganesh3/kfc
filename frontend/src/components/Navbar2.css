@@ -1,0 +1,55 @@
+.contn2
+{
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    background-color: white;
+    z-index: 1000;
+}
+.navn1
+{
+    height: 15vh;
+}
+.navn-li li
+{
+    padding-left: 20px;
+}
+.navn1-li
+{
+    color: black;
+    text-decoration: none;
+    padding-left: 25px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.iconn1
+{
+    font-size: 23px;
+}
+.navn2-li
+{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 12px;
+    border-right: 1px solid #dbdbdb;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.navn3-li
+{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 12px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+.navn4-li
+{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: -7px;
+}

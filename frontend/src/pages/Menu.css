@@ -1,0 +1,215 @@
+.containerm-2
+{
+    margin-top: 120px;
+    height: 9vh;
+    background-color: black;
+}
+.contm2-p
+{
+    text-align: center;
+    padding-top: 13px;
+    color: white;
+    font-weight: bold;
+}
+.contm2-btn
+{
+    background-color: #e4002b;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.contm-3 li
+{
+    list-style-type: none;
+}
+.contm-3 h1
+{
+    padding-top: 10px;
+}
+.sidebar
+{
+    position: sticky;
+    top: 15%;
+    height: 120vh;
+}
+.srhm-5
+{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+    outline: none;
+    border: 1px solid gray;
+}
+.contm-5-1
+{
+    border-bottom: 3px solid black;
+    margin-bottom: 90px;
+}
+.ul2 a
+{
+    text-decoration: none;
+    color: #494949;
+}
+
+.ul2 li
+{
+    list-style-type: none;
+    padding-top: 10px;
+    font-size: 17px;
+    color: #494949;
+    padding-bottom: 10px;
+}
+.cont6-h1
+{
+    padding-left: 20px;
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+.img19
+{
+    width: 25rem !important;
+    
+}
+.cont-5-2
+{
+    height: 1150vh;
+}
+.cont-5-2-1
+{
+    background-color: antiquewhite;
+    height: 240vh;
+    border-radius: 20px;
+}
+
+.cd
+{
+    margin-top: 40px;
+    width: 25rem;
+    /* background-color: black; */
+}
+.cardb
+{
+    width: 25rem;
+    height: 28vh;
+}
+.h3p
+{
+    padding-top: 50px;
+    padding-left: 16px;
+}
+.cont5-p1
+{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+.cont5-p2
+{
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.cont5-p3
+{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.btn5
+{
+    text-decoration: none;
+    font-size: 17px;
+    border: 1px solid red;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.cont-5-2-2
+{
+    /* background-color: red; */
+    height: 150vh;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.img20
+{
+    width: 20rem;
+}
+.cd-2
+{
+    margin-top: 40px;
+    width: 20rem;
+}
+.cardb-2
+{
+    width: 20rem;
+    height: 28vh;
+}
+.cont-5-2-3
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-4
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-5
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-6
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-7
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-8
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-9
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-10
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cont-5-2-11
+{
+    height: 80vh;
+    margin-top: 20px;
+}
+.cardb a:hover
+{
+    color: white;
+}
+.cardb-2 a:hover
+{
+    color: white;
+}

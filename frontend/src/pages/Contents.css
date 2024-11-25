@@ -1,0 +1,168 @@
+.container2
+{
+    margin-top: 160px;
+    height: 9vh;
+    background-color: black;
+}
+.cont2-p
+{
+    text-align: center;
+    padding-top: 13px;
+    color: white;
+    font-weight: bold;
+}
+.cont2-btn
+{
+    background-color: #e4002b;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.img2
+{
+    width: 100%;
+}
+.container3
+{
+    height: 60vh;
+}
+.menu-card
+{
+    text-decoration: none;
+    color: black;
+}
+.menu-card2
+{
+    text-decoration: none;
+    color: black;
+}
+
+.card-body
+{
+    background-color: #f8f7f5;
+    height: 10vh;
+}
+.cont3-p
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.cont3-p1
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 24px;
+}
+.cont3-p2
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: none;
+}
+.cont3-p3
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 26px;
+    background-color: #f8f7f5;
+    text-decoration: none;
+}
+.img3
+{
+    background-color: #f8f7f5;
+    height: 20vh;
+    width: 100%;
+    padding-top: 30px;
+}
+.container3 a:hover
+{
+    color: black;
+}
+.container4
+{
+    height: 50vh;
+}
+.container4 a:hover
+{
+    color: black;
+}
+
+.container5
+{
+    background-color: black;
+    height: 110vh;
+}
+.cont5-p
+{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.cont5-a
+{
+    color: white;
+    float: right;
+    text-decoration: none;    
+}
+.container5 a:hover
+{
+    color: white;
+}
+.cd1
+{
+    width: 20rem;
+    margin-top: 50px;   
+    
+}
+.cd2
+{
+    height: 30vh;
+}
+.text1
+{
+    color: red;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.text2
+{
+    text-align: justify;
+    padding: 10px;
+}
+.btn1
+{
+    text-decoration: none;
+    border: 1px solid black;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    color: black;
+    font-weight: bold;
+    margin-left: 100px;
+    border-radius: 40px;
+}
+.cd2 a:hover
+{
+    color: white;
+    background-color: black;
+}

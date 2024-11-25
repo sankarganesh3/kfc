@@ -1,0 +1,85 @@
+.cont
+{
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    background-color: white;
+    z-index: 1000;
+}
+.container1
+{
+    height: 7vh;
+    border-bottom: 1px solid #dbdbdb;
+}
+.cont1-p
+{
+    text-align: center;
+    padding-top: 13px;
+}
+.cont-btn
+{
+    background-color: black;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.nav1
+{
+    height: 15vh;
+}
+.nav-li li
+{
+    padding-left: 20px;
+}
+.nav1-li
+{
+    color: black;
+    text-decoration: none;
+    padding-left: 25px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.icon1
+{
+    font-size: 23px;
+}
+.nav2-li
+{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 12px;
+    border-right: 1px solid #dbdbdb;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.nav3-li
+{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 12px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+.nav4-li
+{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: -7px;
+}
+.nav-li a
+{
+    color: black;
+    text-decoration: none;
+}
